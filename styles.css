@@ -1,0 +1,36 @@
+.link {
+color: rgb(0, 113,133 );
+}
+.Nike{
+    font-size: 25px;
+    font-weight: bold;
+}
+.stock{
+    color: rgb(0,118,0 );
+    font-weight: bold;
+}
+.Free{
+    font-weight: bold;
+}
+.Add{
+    background-color:rgb(255, 216, 20);
+    color: black;
+    border-radius: 20px;
+    border: none;
+    width: 100px;
+    height: 25px;
+    margin-right: 10px;
+    cursor: pointer;
+    font: bold;
+}
+
+.Buy{
+    background-color:rgb(255, 164, 28);
+    color: black;
+    border-radius: 20px;
+    border: none;
+    width: 100px;
+    height: 25px;
+    cursor: pointer;
+    
+}
